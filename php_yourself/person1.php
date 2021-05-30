@@ -1,7 +1,7 @@
 <?php
 class Person 
 {
-    public $firstName = '南葉';
+    public $firstName = '';
     public $lastName ='圭祐';
 
     public function show() {
