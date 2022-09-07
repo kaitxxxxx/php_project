@@ -1,8 +1,8 @@
 <?php
 
-require_once 'EliteBusinessPerson.php';
+require_once 'Foreign.php';
 
-$ebp = new EliteBusinessPerson('god', 'keiusuuuukey');
+$ebp = new Foreiner('namba', 'god', 'keiusuuuukey');
 
-$ebp->work();
+// $ebp->work();
 $ebp->show();
