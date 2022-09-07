@@ -1,2 +1,5 @@
 # php_project
-phpでデザインパターンを実装の練習
+phpでデザインパターンの実装練習したもの
+
+20220908現在
+abstract factoryを実装中
